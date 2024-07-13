@@ -1,1 +1,1 @@
-cấu hình: 540x960 dpi 240
+cấu hình: 390x700 dpi 60
